@@ -21,11 +21,11 @@ function startup()
     imgArray[3] = new Image;
     imgArray[4] = new Image;
 
-    imgArray[0].src = "images/photo00001.jpg"
+    imgArray[0].src = "images/photo00001.jpeg"
     imgArray[1].src = "images/photo00002.png"
-    imgArray[2].src = "images/photo00003.jpg"
+    imgArray[2].src = "images/photo00003.jpeg"
     imgArray[3].src = "images/photo00004.jpg"
-    imgArray[4].src = "images/photo00005.jpg"
+    imgArray[4].src = "images/photo00005.jpeg"
 
     cycle();
     return;

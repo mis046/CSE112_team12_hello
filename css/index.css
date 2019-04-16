@@ -23,7 +23,9 @@
    .section8 {-webkit-flex:5 0px; flex:5 0px; -webkit-order:9; order:9;}
    .section9 {-webkit-flex:5 0px; flex:5 0px; -webkit-order:10; order:10;}
    .section10 {-webkit-flex:5 0px; flex:5 0px; -webkit-order:11; order:11;}
-   footer {-webkit-order:12;order:12;}
+   .section11 {-webkit-flex:5 0px; flex:5 0px; -webkit-order:12; order:12;}
+
+   footer {-webkit-order:13;order:13;}
 }
 
 footer {
